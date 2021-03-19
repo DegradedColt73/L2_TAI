@@ -1,8 +1,14 @@
 body {
-    background-color: aqua;
+    background-color: lightcyan;
 }
 
 .img {
 	width: 100px;
 	height: auto;
+}
+
+footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
 }
